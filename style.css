@@ -1,0 +1,13 @@
+.font{
+    font-family: cursive;
+}
+body{
+    background: linear-gradient(#00fb5c 0%, #fff700 100%)
+}
+#abutton{
+    border-style: ridge;
+    background: aqua;
+    width: 5%;
+    border-radius: 15px;
+    font-size: large;
+}
